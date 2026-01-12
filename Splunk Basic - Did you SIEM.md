@@ -2,3 +2,5 @@
 
 The tasks under this room provide the introduction and practical example/challenge to work with Splunk by using Search Processing Language (SPL) to filter logs and refine results. 
 Splunk is a SIEM tool and SIEM stands for Security Information and Event Management tool. 
+
+[3 Splunk basics - Did you SIEM.docx](https://github.com/user-attachments/files/24573269/3.Splunk.basics.-.Did.you.SIEM.docx)
