@@ -1,1 +1,4 @@
 # Passwords - A Cracking Christmas
+
+This room focuses the importance of having/creating a critical/difficult password as the strength of the protection is entirely depends on the password. 
+Also talks about the encryption algorithm which is used to protect files and how the weak password can make the encrypted file vulnerable for an attack such as dictionary attacks, Mask attacks etc...
