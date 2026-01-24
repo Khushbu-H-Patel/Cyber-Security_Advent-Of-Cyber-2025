@@ -9,3 +9,5 @@ The key elements of YARA rule are as below:
 **Strings:** the clues YARA searches for: text, byte sequences, or regular expressions that mark suspicious content.
 
 **Conditions:** the logic that decides when the rule triggers, combining multiple strings or parameters into a single decision.
+
+[13 YARA Rules - YARA mean one.docx](https://github.com/user-attachments/files/24840182/13.YARA.Rules.-.YARA.mean.one.docx)
